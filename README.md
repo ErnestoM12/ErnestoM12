@@ -21,7 +21,7 @@
 ```yaml
 name: Ernesto Maya
 role: Senior Full Stack Developer
-experience: 10+ years
+experience: 11+ years
 location: Querétaro, Mexico
 
 specialties:
@@ -88,19 +88,6 @@ currently_learning:
 I enjoy designing systems that are scalable, maintainable and capable of supporting real-world business operations.
 
 ---
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ErnestoM12&show_icons=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestoM12&layout=compact" />
-
-</p>
-
----
-
 # 🎯 Current Focus
 
 | Area            | Focus                       |
