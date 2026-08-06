@@ -4,7 +4,7 @@
 
 ### Senior Full Stack Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&center=true&vCenter=true&width=700&lines=Building+software+for+10%2B+years;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+Python;Scalable+APIs+and+Business+Solutions;AI+%26+Automation+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&center=true&vCenter=true&width=700&lines=Building+software+for+11%2B+years;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+Python;Scalable+APIs+and+Business+Solutions;AI+%26+Automation+Enthusiast" />
 
 <br>
 
