@@ -62,6 +62,7 @@ currently_learning:
 * Node.js
 * Python
 * FastAPI
+* Nestjs.js
 * Express.js
 
 </td>
